@@ -1,2 +1,2 @@
 # supreme-disco
-este es mi primer repositorio en github!!
+Mi repositorio de prueba en gitbuh hoy. 
